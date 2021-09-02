@@ -29,6 +29,8 @@ module.exports = (firstName) =>
 		`her family came forward about it and ${dictionary.told} us all of it. She has friends that also know about it which have been keeping it a secret`,
 		`Her friends ${dictionary.told} me about it, and we know her family who has kept it a secret. She has friends that also know about it which have been keeping it a secret`,
 		`She came to me and ${dictionary.told} me about it, as well as other of our friends`,
+		'We were drunk adn she broke down and told me abt her sin',
+		'I saw her go to that foul place on Google Maps becuz of our family account',		
 		// Misc
-		"We knew she was pregnant weeks before and recently she told us about the news "
+		"We knew she was pregnant weeks before and recently she told us about the news"
 	])
